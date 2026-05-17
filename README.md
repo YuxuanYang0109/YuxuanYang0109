@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Yuxuan Yang.
 
-<!--
-**YuxuanYang0109/YuxuanYang0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a landscape architecture researcher interested in AI-assisted urban analytics, street-view image interpretation, physical activity modeling, and human-centered urban sensing.
 
-Here are some ideas to get you started:
+Research interests:
+- AI for urban sensing and public health
+- Street-view image analysis
+- Physical activity and neighborhood environments
+- Explainable machine learning
+- Human-AI collaborative research tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected work:
+- Streetscape exposure patterns and physical activity in Shanghai neighborhoods
+- Structural Review: an Obsidian plugin for academic workflow reflection
+- LoveMapping: an emotional mapping prototype for urban experiences
+- Riverside Scene at Qingming Festival: generative AI urban narrative experiment
